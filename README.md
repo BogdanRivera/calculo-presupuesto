@@ -1,5 +1,14 @@
-# Aplicación de Presupuestos
+<h1 align="center"> Aplicación de presupuestos </h1>
 
+
+<p align="center">
+  <img src="https://github.com/BogdanRivera/calculo-presupuesto/assets/121648408/3209d98e-cd3e-4d5b-94b8-5d48e4795c6b" alt="Logo proyecto">
+</p>
+
+   <p align="center">
+   <img src="https://img.shields.io/badge/STATUS-FINALIZADO-green">
+   </p>
+   
 Una aplicación web para administrar tus finanzas personales, permitiendo registrar ingresos y egresos. Desarrollada con HTML, CSS y JavaScript, utiliza Bootstrap y Bootstrap Icons para una interfaz moderna y receptiva (no posee conexión a base de datos, solo es un ejemplo de uso).
 
 ## Características
